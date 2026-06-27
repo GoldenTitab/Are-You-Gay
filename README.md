@@ -1,18 +1,23 @@
-
 # 🏳️‍🌈 WAYG — Are You Gay?
 
-A troll-style Python GUI app that asks the **question of the century**:  
-> _"Are You Gay?"_
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-If you click **Yes**, well... the app confirms it in a pretty 🔥 savage way.  
-If you try to click **No**... good luck catching the damn button 😆
+A troll-style desktop application built with Python. This project was developed as a fun exercise in GUI programming, focusing on interactive elements and basic event handling.
 
----
+## 🎮 The Challenge
+The app poses the "question of the century": 
+> *"Are You Gay?"*
+
+* **Yes:** The app confirms it in a savage way.
+* **No:** Good luck catching the button! 😆
+
+## 🛠 Tech Stack
+- **Language:** Python 3.x
+- **GUI Framework:** `tkinter` (Standard Python library)
 
 ## 🚀 How to Run
-
-1. Make sure you have Python 3 installed.
-2. Run the script in any IDE or terminal:
+Ensure you have Python 3 installed, then execute the following command in your terminal:
 
 ```bash
 python wayg.py
@@ -29,17 +34,14 @@ python wayg.py
 
 ## ⚠️ Disclaimer
 
-This is a **joke app**, created just for fun and learning purposes. take it seriously, and be a jerk with it.  
+This is a **joke application**, created just for fun and learning purposes. take it seriously, and be a jerk with it.  
 We don’t support any form of LGBTQ+
 
 ---
 
 ## 💻 Author
 
-Made with 💀 by [GoldenTitab](https://github.com/GoldenTitab)
+Made with 💀 by [Golden Titab](https://github.com/GoldenTitab)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — feel free to fork, remix, and troll responsibly.
